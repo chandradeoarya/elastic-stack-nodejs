@@ -3,11 +3,6 @@
 
 This repo contains examples on how to use elasticsearch in Node.js to create search functionalities.
 
-To clone this repo in your machine:
-
-```
-git clone https://github.com/behroozk/node-elasticsearch-tutorial.git
-```
 
 Then, to download all the requirements:
 
